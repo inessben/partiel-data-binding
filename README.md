@@ -6,3 +6,5 @@
 
 ## library installation that could be useful
     <!-- npm i -g react-router-dom sass  -->
+
+### the commented code is what I couldn't finish in the about.js file
